@@ -22,5 +22,5 @@ Ruby** e **Bootstrap, Flask e Django**.Também possuo conhecimento em **Controle
 
 ### 📬 Contato Sinta-se à vontade para me contatar e explorar meus trabalhos: 
 - [**LinkedIn**](https://www.linkedin.com/in/wellington-ayres-96022a25a/) 
-- [**Email**](mailto:wlayres07.@gmail.com)
+- [**Email**](mailto:wlayres07@gmail.com)
 - [**Instagram**](https://www.instagram.com/_well_ayres_/)
