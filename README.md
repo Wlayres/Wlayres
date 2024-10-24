@@ -9,7 +9,9 @@ Ruby** e **Bootstrap, Flask e Django**.Também possuo conhecimento em **Controle
 
 **Front-end:** HTML, CSS, JavaScript -
 
-**Back-end:** PHP, Python, Ruby - **Framework:** Django, Flask, Boostrap -
+**Back-end:** PHP, Python, Ruby - 
+
+**Framework:** Django, Flask, Boostrap -
 
 **Database:** MySQL - 
 
@@ -22,7 +24,11 @@ Ruby** e **Bootstrap, Flask e Django**.Também possuo conhecimento em **Controle
  2.  [**SwanShine**](https://github.com/SwanShine/Site-SwanShine) -
      **Descrição:** Projeto desenvolvido para uma organização da qual faço parte, criando um site do zero para a empresa SwanShine.
    
-### 🎓 Certificações Minhas principais certificações: - **HTML:** Curso de HTML do Curso em Vídeo de 40h.
+### 🎓 Certificações Minhas principais certificações: -
+
+ **HTML:** Curso de HTML do Curso em Vídeo de 40h.
+
+ **Montagem e Manutenção** 
 
 ### 📬 Contato Sinta-se à vontade para me contatar e explorar meus trabalhos: 
 - [**LinkedIn**](https://www.linkedin.com/in/wellington-ayres-96022a25a/) 
