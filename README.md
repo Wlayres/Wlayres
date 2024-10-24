@@ -6,9 +6,13 @@ Sou um desenvolvedor Full Stack, conto experiência em diversar tecnologias. Apr
 Ruby** e **Bootstrap, Flask e Django**.Também possuo conhecimento em **Controle de dados**.
 
 ### Habilidades Técnicas -
+
 **Front-end:** HTML, CSS, JavaScript -
+
 **Back-end:** PHP, Python, Ruby - **Framework:** Django, Flask, Boostrap -
+
 **Database:** MySQL - 
+
 **Outros:** Montagem e Manutenção de Computadores, Redes de Computadores...
  
 ### 🌟 Projetos em Destaque Aqui estão alguns dos meus repositórios mais importantes: 
