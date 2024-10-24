@@ -15,7 +15,7 @@ Ruby** e **Bootstrap, Flask e Django**.Também possuo conhecimento em **Controle
 1. [**SwanShine**](https://github.com/SwanShine/App-Desktop) -
      **Descrição:** Projeto desenvolvido para uma organização da qual faço parte, criando um app para desktop do zero para a empresa SwanShine.
    
-2  [**SwanShine**](https://github.com/SwanShine/Site-SwanShine) -
+ 2.  [**SwanShine**](https://github.com/SwanShine/Site-SwanShine) -
      **Descrição:** Projeto desenvolvido para uma organização da qual faço parte, criando um site do zero para a empresa SwanShine.
    
 ### 🎓 Certificações Minhas principais certificações: - **HTML:** Curso de HTML do Curso em Vídeo de 40h.
