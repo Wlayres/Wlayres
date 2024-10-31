@@ -9,7 +9,7 @@ Ruby** e **Bootstrap, Flask e Django**.Também possuo conhecimento em **Controle
 
 **Front-end:** HTML, CSS, JavaScript -
 
-**Back-end:** PHP, Python, Ruby - 
+**Back-end:** PHP, Python - 
 
 **Framework:** Django, Flask, Boostrap -
 
