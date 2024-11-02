@@ -26,9 +26,11 @@ Sou um desenvolvedor Full Stack, conto experiência em diversar tecnologias. Apr
    
 ### 🎓 Certificações Minhas principais certificações: -
 
- **HTML:** Curso de HTML do Curso em Vídeo de 40h.
+**ALGORITMO:** Curso de ALGORITMO do Curos em Vídeo de 40h.
 
- **Montagem e Manutenção** 
+ **HTML:** Curso de HTML do Curso em Vídeo de 40h.
+ 
+**Computação: Fundamentos** Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul. (25h)
 
 ### 📬 Contato Sinta-se à vontade para me contatar e explorar meus trabalhos: 
 - [**LinkedIn**](https://www.linkedin.com/in/wellington-ayres-96022a25a/) 
