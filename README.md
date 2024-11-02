@@ -3,7 +3,7 @@
 
 ### Sobre mim 
 Sou um desenvolvedor Full Stack, conto experiência em diversar tecnologias. Aprofundei-me em frameworks e bibliotecas diversas, como **HTML, CSS, JavaScript, PHP, MySQL, Python, 
-Ruby** e **Bootstrap, Flask e Django**.Também possuo conhecimento em **Controle de dados**.
+** e **Bootstrap, Flask e Django**.Também possuo conhecimento em **Controle de dados**.
 
 ### Habilidades Técnicas -
 
